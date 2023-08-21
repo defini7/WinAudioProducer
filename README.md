@@ -1,2 +1,2 @@
 # WinAudioProducer
-Фреймворк для воспроизведения звука с помощью WinAPI
+Framework for playing sound using WinAPI
